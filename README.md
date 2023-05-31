@@ -1,5 +1,5 @@
 # LP9DPBO2023-C2
-Saya Ayurika Sinambela 2003717 mengerjakan Latihan 5 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Amin.
+Saya Ayurika Sinambela 2003717 mengerjakan Latihan 9 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Amin.
 ## Desain
 Program ini terdiri dari 4 kelas, yaitu:
 - Class Hunian: merupakan kelas utama (parents) dari kelas lainnya. Terdapat metode baru yang ditambahkan dalam class ini yaitu keterangan, dimana dapat menambahkan keterangan sesuai dengan kebutuhan.
